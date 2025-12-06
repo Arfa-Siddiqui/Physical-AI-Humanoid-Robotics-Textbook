@@ -1,0 +1,86 @@
+{
+  "/humanoid-robotics-book/__docusaurus/debug-fbb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/config-58c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/content-9ef": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    },
+    "__props": "__props---humanoid-robotics-book-docusaurus-debug-content-8-ac-f0a"
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/globalData-5e0": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/metadata-a6b": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/registry-969": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/__docusaurus/debug/routes-919": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docusaurus-debugb-38-fea"
+    }
+  },
+  "/humanoid-robotics-book/docs-65e": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---humanoid-robotics-book-docsaba-eb7"
+    }
+  },
+  "/humanoid-robotics-book/docs-8e5": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---humanoid-robotics-book-docs-5-c-1-847"
+  },
+  "/humanoid-robotics-book/docs-424": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/humanoid-robotics-book/docs/intro-b29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-intro-0-e-3-412"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/examples-129": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-examples-13-a-e09"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/exercises-f47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-exercises-73-c-c11"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/installation-361": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-installation-2-e-6-70d"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/nodes-ce3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-nodes-5-da-0ff"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/overview-356": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-overviewb-53-b31"
+  },
+  "/humanoid-robotics-book/docs/modules/ros2/urdf-5f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---humanoid-robotics-book-docs-modules-ros-2-urdf-0-e-0-8d6"
+  }
+}

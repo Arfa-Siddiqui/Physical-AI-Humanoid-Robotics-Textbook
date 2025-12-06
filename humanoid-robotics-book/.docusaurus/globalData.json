@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/humanoid-robotics-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/humanoid-robotics-book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/humanoid-robotics-book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/examples",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/exercises",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/installation",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/nodes",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/overview",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/urdf",
+              "path": "/humanoid-robotics-book/docs/modules/ros2/urdf",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/humanoid-robotics-book/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

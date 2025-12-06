@@ -1,0 +1,27 @@
+{
+  "id": "modules/ros2/overview",
+  "title": "ROS 2 Fundamentals",
+  "description": "Overview",
+  "source": "@site/docs/modules/ros2/overview.md",
+  "sourceDirName": "modules/ros2",
+  "slug": "/modules/ros2/overview",
+  "permalink": "/humanoid-robotics-book/docs/modules/ros2/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/humanoid-robotics-book/docs/intro"
+  },
+  "next": {
+    "title": "ROS 2 Installation Guide",
+    "permalink": "/humanoid-robotics-book/docs/modules/ros2/installation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "modules/ros2/examples",
+  "title": "ROS 2 Examples and Practical Applications",
+  "description": "Overview",
+  "source": "@site/docs/modules/ros2/examples.md",
+  "sourceDirName": "modules/ros2",
+  "slug": "/modules/ros2/examples",
+  "permalink": "/humanoid-robotics-book/docs/modules/ros2/examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2/examples.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF and Robot Modeling",
+    "permalink": "/humanoid-robotics-book/docs/modules/ros2/urdf"
+  },
+  "next": {
+    "title": "ROS 2 Exercises",
+    "permalink": "/humanoid-robotics-book/docs/modules/ros2/exercises"
+  }
+}

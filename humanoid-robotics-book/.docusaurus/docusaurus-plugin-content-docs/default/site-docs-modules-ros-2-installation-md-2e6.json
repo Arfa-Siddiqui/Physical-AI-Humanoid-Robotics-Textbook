@@ -1,0 +1,27 @@
+{
+  "id": "modules/ros2/installation",
+  "title": "ROS 2 Installation Guide",
+  "description": "Overview",
+  "source": "@site/docs/modules/ros2/installation.md",
+  "sourceDirName": "modules/ros2",
+  "slug": "/modules/ros2/installation",
+  "permalink": "/humanoid-robotics-book/docs/modules/ros2/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/modules/ros2/installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/humanoid-robotics-book/docs/modules/ros2/overview"
+  },
+  "next": {
+    "title": "ROS 2 Nodes and Communication",
+    "permalink": "/humanoid-robotics-book/docs/modules/ros2/nodes"
+  }
+}
